@@ -11,6 +11,10 @@ and various commands using a Web Project
 
 ## Purpose
 
+Main purpose is to provide a simple example for Git.
+
 ## Deployment
+
+This is something to do with Deployment
 
 ## How To Contribute
